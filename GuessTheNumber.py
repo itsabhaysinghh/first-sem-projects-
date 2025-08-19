@@ -5,11 +5,11 @@ class GuessTheNumber:
     def guess(self,a,b):
         if User_input == computer:
             return "You Won!"
+
         
         else:
             return "You Lost!"
  
-        
 
 
 
